@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://route:route@contact-keeper-qv1c8.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "ShhhKoiHey"
+}
